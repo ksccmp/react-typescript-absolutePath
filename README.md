@@ -1,0 +1,1 @@
+* 소스코드 관련 설명 → <a href='https://jforj.tistory.com/253'>[React] [React] 타입 스크립트(TypeScript) 환경에서 절대 경로 사용하기</a>
